@@ -3,7 +3,7 @@ import SearchIcon from "../assets/search.png";
 
 function Search() {
   return (
-    <div className="mt-48 mb-48 mx-auto w-min bg-white pl-10 rounded-xl shadow-2xl flex">
+    <div className="mt-40 mb-20 mx-auto w-min bg-white pl-10 rounded-xl shadow-2xl flex">
       <div className="flex flex-col items-start h-full border-black border-r-[1px] py-6">
         <div className="flex items-center justify-center mr-4">
           <p className="text-black font-medium">Location</p>
