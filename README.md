@@ -3,5 +3,5 @@
 ###### Note: The UI is not fully responsive!🫤
 
 ### App Screenshot
-![App Screenshot](App Screenshot/App Screenshot.png?raw=true "Title")
+![App Screenshot](App_Screenshot.png)
 ###### Not finished yet! 🙂
