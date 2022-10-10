@@ -19,7 +19,10 @@ function who_are_we() {
           tenetur totam!
         </p>
         <div className="flex flex-col">
-          <a href="#" className="flex items-center">
+          <a
+            href="#"
+            className="flex items-center transform transition duration-500 hover:scale-110"
+          >
             <div className="bg-black h-min rounded-3xl">
               <img width={40} src={Tick} alt="tick" />
             </div>
@@ -30,7 +33,10 @@ function who_are_we() {
               <img width={30} src={ArrowDown} alt="arrow down" />
             </div>
           </a>
-          <a href="#" className="flex items-center my-3">
+          <a
+            href="#"
+            className="flex items-center my-3 transform transition duration-500 hover:scale-110"
+          >
             <div className="bg-black h-min rounded-3xl">
               <img width={40} src={Tick} alt="tick" />
             </div>
@@ -41,7 +47,10 @@ function who_are_we() {
               <img width={30} src={ArrowDown} alt="arrow down" />
             </div>
           </a>
-          <a href="#" className="flex items-center">
+          <a
+            href="#"
+            className="flex items-center transform transition duration-500 hover:scale-110"
+          >
             <div className="bg-black h-min rounded-3xl">
               <img width={40} src={Tick} alt="tick" />
             </div>

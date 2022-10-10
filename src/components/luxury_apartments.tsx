@@ -20,13 +20,13 @@ function luxury_apartments() {
         <div className="flex">
           <a
             href=""
-            className="w-9 bg-white shadow-md h-9 rounded-md flex justify-center items-center"
+            className="w-9 bg-white shadow-md h-9 rounded-md flex justify-center items-center transform transition duration-500 hover:scale-110"
           >
             <img className="w-8/12" src={ArrowBlack} alt="left arrow" />
           </a>
           <a
             href=""
-            className="w-9 bg-black shadow-md h-9 rounded-md ml-6 flex justify-center items-center"
+            className="w-9 bg-black shadow-md h-9 rounded-md ml-6 flex justify-center items-center transform transition duration-500 hover:scale-110"
           >
             <img
               className="rotate-180 w-8/12"
@@ -37,7 +37,7 @@ function luxury_apartments() {
         </div>
       </div>
       <div className="flex justify-between mt-16">
-        <div className="bg-white rounded-2xl p-3 flex flex-col w-[400px]">
+        <div className="bg-white rounded-2xl p-3 flex flex-col w-[400px] transform transition duration-500 hover:scale-110">
           <div className="w-full h-[350px] overflow-hidden rounded-2xl">
             <img
               className="object-cover h-full"
@@ -73,7 +73,7 @@ function luxury_apartments() {
             </div>
           </div>
         </div>
-        <div className="bg-white rounded-2xl p-3 flex flex-col w-[400px]">
+        <div className="bg-white rounded-2xl p-3 flex flex-col w-[400px] transform transition duration-500 hover:scale-110">
           <div className="w-full h-[350px] overflow-hidden rounded-2xl">
             <img
               className="object-cover h-full"
@@ -109,7 +109,7 @@ function luxury_apartments() {
             </div>
           </div>
         </div>
-        <div className="bg-white rounded-2xl p-3 flex flex-col w-[400px]">
+        <div className="bg-white rounded-2xl p-3 flex flex-col w-[400px] transform transition duration-500 hover:scale-110">
           <div className="w-full h-[350px] overflow-hidden rounded-2xl">
             <img
               className="object-cover h-full"

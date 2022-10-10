@@ -43,7 +43,7 @@ function Search() {
       </div>
       <a
         href="/"
-        className="bg-[#241b1c] p-5 self-center rounded-xl flex items-center ml-4 mr-2"
+        className="bg-[#241b1c] p-5 self-center rounded-xl flex items-center ml-4 mr-2 transform transition duration-500 hover:scale-110"
       >
         <img
           className="max-w-max self-center"
