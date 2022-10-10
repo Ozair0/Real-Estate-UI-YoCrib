@@ -3,7 +3,7 @@ import Tick from "../assets/tick.png";
 import ArrowDown from "../assets/arrow_down.png";
 function who_are_we() {
   return (
-    <div className="flex justify-evenly mt-32 mb-48">
+    <div className="flex justify-evenly my-32">
       <div className="w-5/12 h-min rounded-xl overflow-hidden">
         <img className="object-cover" src={HomeImage} alt="home image" />
       </div>
