@@ -6,7 +6,7 @@ import EmptyStar from "../assets/empty_star.png";
 import RightQuote from "../assets/right_quote.png";
 function customers_stories() {
   return (
-    <div className="w-full h-[800px] flex flex-col mb-24">
+    <div className="w-full h-[800px] flex flex-col">
       <div className="w-full h-[800px] brightness-50 absolute -z-10">
         <img
           className="object-cover h-full"

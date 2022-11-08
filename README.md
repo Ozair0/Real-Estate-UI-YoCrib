@@ -4,4 +4,3 @@
 
 ### App Screenshot
 ![App Screenshot](App_Screenshot.png)
-###### Not finished yet! 🙂
